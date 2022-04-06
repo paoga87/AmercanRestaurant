@@ -31,6 +31,7 @@
       <div class="hero-text">
         <h1>The American Restaurant</h1>
         <p>Official Site</p>
+        <button onclick="makeReservation()">Make a Reservation</button>
       </div>
   </div>
 
@@ -65,10 +66,34 @@
       
       <div class="row">
         <div class="col">
-          Left text
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Nascetur ridiculus mus mauris vitae ultricies leo. 
+        In metus vulputate eu scelerisque felis imperdiet. 
+        Adipiscing enim eu turpis egestas. Nisl rhoncus mattis rhoncus urna neque viverra justo. 
+        Amet purus gravida quis blandit turpis cursus in hac. 
+        Tristique senectus et netus et malesuada fames ac. 
+        Id cursus metus aliquam eleifend mi in nulla posuere. 
+        Pellentesque massa placerat duis ultricies. 
+        Lacus vel facilisis volutpat est. Egestas fringilla phasellus 
+        faucibus scelerisque eleifend. Dignissim suspendisse in est ante 
+        in nibh. Cursus vitae congue mauris rhoncus aenean vel elit 
+        scelerisque mauris. Auctor elit sed vulputate mi. Hac habitasse 
+        platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper. 
+        Non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. 
+        Laoreet suspendisse interdum consectetur libero id faucibus nisl.
         </div>
         <div class="col">
-          Right text
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+        Ut tristique et egestas quis ipsum suspendisse ultrices. 
+        Elementum nibh tellus molestie nunc non blandit massa enim. 
+        Tellus elementum sagittis vitae et leo duis ut diam quam. 
+        Sed euismod nisi porta lorem mollis aliquam ut. Convallis a 
+        cras semper auctor neque vitae tempus quam. Fermentum iaculis eu 
+        non diam phasellus vestibulum lorem. Molestie nunc non blandit 
+        massa enim nec. Massa eget egestas purus viverra accumsan in nisl. 
+        In metus vulputate eu scelerisque. Placerat in egestas erat imperdiet sed euismod. Id faucibus nisl tincidunt eget nullam non nisi est sit. Ultrices vitae auctor eu augue ut. Urna molestie at elementum eu facilisis sed odio morbi quis.
         </div>
       </div>
 
